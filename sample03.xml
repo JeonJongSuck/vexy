@@ -1,0 +1,81 @@
+﻿<group>
+    <groupName>Group1</groupName>
+    <case>
+        <task>업무</task>
+        <importance>매우 높음</importance>
+        <detail>프로젝트 일정 회의</detail>
+    </case>
+    <case>
+        <task>업무</task>
+        <importance>매우 낮음</importance>
+        <detail>개발표준가이드 문서 작성</detail>
+    </case>
+    <case>
+    <task> 업무</task>
+        <importance>중간</importance>
+        <detail>통합테스트 범위 및 일정 회의</detail>
+    </case>
+    <case>
+        <task>교육
+        <importance>낮음</importance>
+        <detail>인프런 동영상 강좌 교육</detail>
+    </case>
+    <case>
+        <task>개인</task>
+        <importance>높음</importance>
+        <detail>고등학교 동창 모임</detail>
+    </case>
+</group>
+
+<group>
+    <groupName>Group2</groupName>
+    <case>
+        <task>개인</task>
+        <importance>매우 높음</importance>
+        <detail>1/1) 신년맞이</detail>
+    </case>
+    <case>
+        <task>개인
+        <importance>낮음</importance>
+        <detail>1/8) 친구들 술 약속</detail>
+    </case>
+    <case>
+        <task>교육</task>
+        <importance>높음</importance>
+        <detail>화재안전 예방 교육</detail>
+    </case>
+    <case>
+        <task>교육</task>
+        <importance>중간</importance>
+        <detail>사내 위생 교육</detail>
+    </case>
+</group>
+
+<group>
+    <groupName>Group3</groupName>
+    <case>
+        <task>업무</task>
+        <importance>높음</importance>
+        <detail> HTML 기반 확립</detail>
+    </case>
+    <case>
+        <task>업무</task>
+        <importance>매우 높음</importance>
+        <detail>JavaScript 구성 확인</detail>
+    </case>
+    <case>
+        <task>업무</task>
+        <importance>낮음</importance>
+        <detail>JQuery 사용법 익히기</detail>
+    </case>
+    <case>
+        <task>개인</task>
+        <importance>매우 낮음</importance>
+        <detail>적을 게 없음 !</detail>
+    </case>
+    <case>
+        <task>업무</task>
+        <importance>중간</importance>
+        <detail>군포시 구성 확인</detail>
+    </case>
+</group>
